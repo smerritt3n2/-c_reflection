@@ -1,0 +1,7 @@
+C:\Users\Samuel\Documents\Coding Projects\#C Reflection\CarInformation\CarInformation\bin\Debug\CarInformation.exe.config
+C:\Users\Samuel\Documents\Coding Projects\#C Reflection\CarInformation\CarInformation\bin\Debug\CarInformation.exe
+C:\Users\Samuel\Documents\Coding Projects\#C Reflection\CarInformation\CarInformation\bin\Debug\CarInformation.pdb
+C:\Users\Samuel\Documents\Coding Projects\#C Reflection\CarInformation\CarInformation\obj\Debug\CarInformation.csprojAssemblyReference.cache
+C:\Users\Samuel\Documents\Coding Projects\#C Reflection\CarInformation\CarInformation\obj\Debug\CarInformation.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Documents\Coding Projects\#C Reflection\CarInformation\CarInformation\obj\Debug\CarInformation.exe
+C:\Users\Samuel\Documents\Coding Projects\#C Reflection\CarInformation\CarInformation\obj\Debug\CarInformation.pdb
